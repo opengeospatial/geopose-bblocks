@@ -2,7 +2,7 @@
   "name": "GeoPose Advanced",
   "abstract": "Advanced GeoPose allowing flexible outer frame specification, quaternion orientation, and valid time.",
   "status": "under-development",
-  "highlighted": "true",
+  "highlighted": true,
   "dateTimeAddition": "2023-07-13T00:00:00+00:00",
   "itemClass": "schema",
   "register": "ogc-building-block-register",
