@@ -5,11 +5,12 @@
   "name": "GeoPose Basic-Quaternion",
   "abstract": "Basic GeoPose using quaternion to specify orientation",
   "status": "under-development",
+  "highlighted": true,
   "dateTimeAddition": "2023-07-13T00:00:00+00:00",
   "itemClass": "schema",
   "register": "ogc-building-block-register",
   "version": "0.1",
-  "dateOfLastChange": "2025-04-29",
+  "dateOfLastChange": "2025-05-14",
   "sources": [
     {
       "title": "OGC GeoPose 1.0 Data Exchange Draft Standard",
